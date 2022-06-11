@@ -7,4 +7,4 @@ Personal resources I've collected over time
 
 ## Productivity 
 ### VIM 
-* [Only VIM tutorial you need](https://danielmiessler.com/study/vim/#language)
+* [Only VIM tutorial you need](https://danielmiessler.com/study/vim)
